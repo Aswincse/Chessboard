@@ -1,0 +1,20 @@
+html{
+    background-color:white;
+}body{
+    background-color: white;
+    border: solid 5px grey;
+    width: 800px;
+    height: 800px;
+}
+.row{
+    width: 800px;
+    height: 100px;
+}
+.box{
+    float: left;
+  width: 100px;
+  height: 100px;
+}
+.black{
+    background-color: black;
+}
