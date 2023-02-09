@@ -1,1 +1,1 @@
-# Chessboard
+# Chessboard using HTML and CSS
